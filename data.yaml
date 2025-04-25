@@ -1,0 +1,14 @@
+path: C:/Users/Administrator/Documents/dataset/Person
+train: ../train/images
+val: ../test/images
+test: ../test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: alharth-alhaj-hussein-1hig7
+  project: persons-xsqoj
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/alharth-alhaj-hussein-1hig7/persons-xsqoj/dataset/1
